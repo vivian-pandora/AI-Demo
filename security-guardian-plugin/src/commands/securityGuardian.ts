@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // ============================================================
 // Security Guardian Plugin — Slash Command Handler
 // Wired to: /security-guardian
